@@ -1,4 +1,4 @@
-# Toilets, Tapps and Saniflos
+# Toilets, Taps and Saniflos
 
 Static website project for Craig West.
 
