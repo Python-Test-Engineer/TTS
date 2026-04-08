@@ -1,7 +1,5 @@
-Small Pluming Jobs - £75 plus parts
+Originally in IT, I became a qualified plumber in 1996 as well as gaining Gas Safe and Part P ELectrical certifications.
 
-Saniflo work - £135 plus parts
+I had a plumbing business - Small Job On Time Same Day Plumbers Ltd - that had over 1000 reviews on Checkatrade.
 
-Rationale - Over the years even the seemingly simplest job can turn our to be a real 'project'. It can be hard to tell exactly how a job will go with al the twists and turns of remedial plumbing. I have worked out an average that prevents a customer being charged for that nightmare job. THis pricing appraoch normalises it for all. It can seem unfair if your job is that sweet job where it all goes incredibly smoothly - then again it is a safeguard for that nightmare job that can take hours...
-
-Saniflo work involves wc removal and investigation and repair to the unit. this is normally 2-3 times the work for a small job and hence the price is higher
+In 2020, I returned to IT moving it to the filed of AI - CraigWestAI.com and in 2026 decided to return to plumbing as AI was able to do it all - like this site that was made by just describing in English what I wanted!
