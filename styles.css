@@ -475,6 +475,10 @@ ul {
       background: transparent;
       border-bottom: 0;
       gap: 0.35rem;
+      max-height: none;
+      opacity: 1;
+      visibility: visible;
+      overflow: visible;
    }
 
    .site-nav a {
