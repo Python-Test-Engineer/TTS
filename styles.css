@@ -78,6 +78,10 @@ a:focus {
    flex: 1;
 }
 
+.bio-layout--secondary {
+   margin-top: 2rem;
+}
+
 @media (max-width: 600px) {
    .bio-layout {
       flex-direction: column;

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls C:/Users/mrcra/Desktop/TTS/*.jpeg C:/Users/mrcra/Desktop/TTS/*.jpg)"
+    ]
+  }
+}
