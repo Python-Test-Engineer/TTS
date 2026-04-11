@@ -116,6 +116,33 @@
       <section id="home" class="hero section">
          <div class="container">
 
+            <p class="tap-caption" aria-hidden="true">Hover the tap to turn it off</p>
+            <div class="hero-tap" aria-hidden="true">
+               <svg class="tap-svg" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
+                  <!-- Pipe body -->
+                  <rect x="10" y="50" width="14" height="50" rx="3" fill="#6495ed"/>
+                  <!-- Elbow curve -->
+                  <path d="M10 50 Q10 30 30 30" stroke="#6495ed" stroke-width="14" fill="none" stroke-linecap="round"/>
+                  <!-- Horizontal pipe -->
+                  <rect x="30" y="23" width="50" height="14" rx="3" fill="#6495ed"/>
+                  <!-- Spout body -->
+                  <rect x="76" y="23" width="14" height="38" rx="3" fill="#6495ed"/>
+                  <!-- Spout tip -->
+                  <rect x="72" y="56" width="22" height="8" rx="4" fill="#3a6fd8"/>
+                  <!-- Handle base -->
+                  <rect x="50" y="16" width="12" height="10" rx="2" fill="#3a6fd8"/>
+                  <!-- Handle arm -->
+                  <rect x="44" y="10" width="24" height="8" rx="4" fill="#3a6fd8"/>
+                  <!-- Water (grouped for hover targeting) -->
+                  <g class="tap-water">
+                     <path class="tap-stream" d="M83 64 Q82 80 84 96" stroke="#a8d4f5" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.9"/>
+                     <ellipse class="tap-drop tap-drop-1" cx="83" cy="104" rx="3.5" ry="4.5" fill="#6495ed" opacity="0.7"/>
+                     <ellipse class="tap-drop tap-drop-2" cx="83" cy="104" rx="2.5" ry="3.5" fill="#a8d4f5" opacity="0.6"/>
+                     <ellipse class="tap-drop tap-drop-3" cx="83" cy="104" rx="3" ry="4" fill="#6495ed" opacity="0.5"/>
+                  </g>
+               </svg>
+            </div>
+
             <h1 class="hero-title">Saniflo Specialist in Brighton</h1>
             <h1 class="hero-title">Toilets &middot; Taps &middot; Saniflos </h1>
             <h1 class="hero-title">Same/Next Day</h1>
