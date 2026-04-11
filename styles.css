@@ -138,6 +138,32 @@ ul {
    padding-left: 1.1rem;
 }
 
+@keyframes water-flow {
+   0%   { background-position: 0% 50%; }
+   50%  { background-position: 100% 50%; }
+   100% { background-position: 0% 50%; }
+}
+
+.strapline-bar {
+   background: linear-gradient(
+      120deg,
+      #a8d4f5 0%,
+      #ffffff 25%,
+      #6495ed 50%,
+      #cce8ff 75%,
+      #a8d4f5 100%
+   );
+   background-size: 300% 300%;
+   animation: water-flow 6s ease infinite;
+   color: #1d2935;
+   text-align: center;
+   font-size: 1.5rem;
+   letter-spacing: 0.05em;
+   padding: 0.7rem 1rem;
+   font-style: italic;
+   font-weight: 600;
+}
+
 .site-header {
    position: sticky;
    top: 0;
