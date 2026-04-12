@@ -705,6 +705,28 @@ a,
    display: none;
 }
 
+.hero h2 {
+   background: linear-gradient(
+      90deg,
+      var(--ink) 0%,
+      var(--ink) 30%,
+      var(--brand) 50%,
+      var(--ink) 70%,
+      var(--ink) 100%
+   );
+   background-size: 200% auto;
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-fill-color: transparent;
+   animation: fast-sweep 1.8s linear infinite;
+   letter-spacing: -0.01em;
+}
+
+@keyframes fast-sweep {
+   0%   { background-position: 200% center; }
+   100% { background-position: -200% center; }
+}
+
 /* Stage 8 — Bio photos */
 .bio-photo {
    border: 3px solid rgba(100, 149, 237, 0.35);
